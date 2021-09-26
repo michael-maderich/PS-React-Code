@@ -1,0 +1,16 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "MongoDb Test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Maderich",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.9.2",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
+  }
+}

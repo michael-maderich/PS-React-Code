@@ -1,0 +1,13 @@
+.item-list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    /* background-color: white; */
+    /* border: 1px solid; */
+}
+
+#item-list-title {
+    text-align: left;
+}
+
+

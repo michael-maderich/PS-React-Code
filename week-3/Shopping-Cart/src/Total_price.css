@@ -1,0 +1,30 @@
+.price {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+
+.item-left-content {    
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+    padding: 20px; 
+}
+
+.item-details {
+    padding: 20px;
+}
+
+.subtotal {
+    width: 15%;
+    padding: 0 40px;
+}
+
+.subtotal p {
+    text-align: center;
+}

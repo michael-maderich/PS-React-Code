@@ -1,0 +1,17 @@
+{
+  "name": "sba",
+  "version": "1.0.0",
+  "description": "Per Scholas React cohort Week 2 SBA - Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael A Maderich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.0"
+  }
+}

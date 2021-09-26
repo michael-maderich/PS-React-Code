@@ -1,0 +1,35 @@
+
+
+.item {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20p;
+}
+
+.item-left-content {    
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+}
+img {
+    width: 130px;
+    height: 130px;
+    padding: 20px; 
+}
+
+.item-details {
+    padding: 20px;
+}
+
+.item-details h4, p {
+    text-align: left;
+}
+
+.item-price {
+    width: 15%;
+    padding: 20px;
+}
+
+.item-price p {
+    text-align: center;
+}

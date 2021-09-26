@@ -1,0 +1,31 @@
+Shopping Cart
+
+Data:
+    -ShoppingCartList - Array of Items objects
+        -Item - JS objects
+            -Product name
+            -Price
+            -Quantity
+            -Description
+            -Image url
+title, quantity, price
+    -Shipping address
+        -name
+        -Street
+        -City
+        -State
+        -Zip code
+        -Phone number
+    -Payment
+        -Credit card number
+        -Expiration date
+
+Components:
+    -Title 
+    -ShoppingCartList
+        -Item
+            -Delete
+    -Customer information
+        -Shipping address
+        -Payment information
+    -Total Price
